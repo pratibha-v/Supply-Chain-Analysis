@@ -11,7 +11,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
   
   
 ### Task
-Create interactive dashboard according to the requirements provided by stakeholders in the business review meeting, and generate relevant insights. 
+Create interactive dashboard according to the requirements provided by stakeholders in the business review meeting, and generate relevant insights.  
 Glimpse of dashboard    
 Page-1
 
